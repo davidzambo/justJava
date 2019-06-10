@@ -2,4 +2,7 @@
     <string name="app_name">JustJava</string>
     <string name="counter">counter</string>
     <string name="order_button_label">order</string>
+    <string name="price">price</string>
+    <string name="minus_sign">-</string>
+    <string name="plus_sign">+</string>
 </resources>
